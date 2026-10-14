@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^g\\+\\+ -std=c\\+\\+17 src/\\*\\.cpp -Iinclude -o atm\\.exe$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
